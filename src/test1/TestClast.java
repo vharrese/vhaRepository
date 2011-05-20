@@ -5,4 +5,8 @@ public class TestClast {
 	/* new comment*/
 	
 	// added by Thanh
+	
+	// change by VH
+	// NB: I choose to add both changes
+	
 }
