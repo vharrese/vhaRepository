@@ -9,4 +9,6 @@ public class TestClast {
 	// change by VH
 	// NB: I choose to add both changes
 	
+	
+	// now i add thius
 }
