@@ -11,6 +11,4 @@ public class TestClast {
 	
 	
 	// now i add thius
-	
-	// adding another line
 }
