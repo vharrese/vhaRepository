@@ -19,4 +19,11 @@ public class TestClast {
 	public int add(int a, int b) {
 		return a + b;
 	}
+	
+	/**
+	 * Mult thing.
+	 */
+	public int mult(int a, int b) {
+		return a * b;
+	}
 }
