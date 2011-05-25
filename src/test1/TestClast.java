@@ -28,4 +28,8 @@ public class TestClast {
 	// adding another line
 	
 	// another one ...
+	
+	public int divide(int a, int b) {
+		return a / b;
+	}
 }
