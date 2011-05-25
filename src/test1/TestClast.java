@@ -11,4 +11,9 @@ public class TestClast {
 	
 	
 	// now i add thius
+	
+	
+	public vroid add(int a, int b) {
+		return a + b;
+	}
 }
