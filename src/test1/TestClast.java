@@ -12,7 +12,6 @@ public class TestClast {
 	
 	// now i add thius
 	
-	
 	/**
 	 * Adder thing.
 	 */
@@ -26,4 +25,7 @@ public class TestClast {
 	public int mult(int a, int b) {
 		return a * b;
 	}
+	// adding another line
+	
+	// another one ...
 }
