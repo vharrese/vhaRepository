@@ -48,10 +48,10 @@ public class TestClast {
 		return a + b;
 	}
 	
-		/**
+	/**
 	 * Fonction de substation
 	 */
-	public int substract(int a, int b) {
+	public int substractVictor(int a, int b) {
 		return a - b;
 	}
 }
