@@ -12,8 +12,31 @@ public class TestClast {
 	
 	// now i add thius
 	
+	/**
+	 * Adder thing.
+	 */
+	public int add(int a, int b) {
+		return a + b;
+	}
+	
+	/**
+	 * Mult thing.
+	 */
+	public int mult(int a, int b) {
+		return a * b;
+	}
 	// adding another line
 	
+		
+	// another one ...
+	
+	public int divide(int a, int b) {
+		return a / b;
+	}
+	
+	public int square(int a) {
+		return a * a;
+	}
 	public String concat(String a, String b) {
 		return a + b;
 	}
