@@ -13,4 +13,8 @@ public class TestClast {
 	// now i add thius
 	
 	// adding another line
+	
+	public String concat(String a, String b) {
+		return a + b;
+	}
 }
